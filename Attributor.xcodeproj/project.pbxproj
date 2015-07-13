@@ -81,8 +81,6 @@
 		A8BED4A01B5420D300D39E9F /* Attributor */ = {
 			isa = PBXGroup;
 			children = (
-				A8BED4A51B5420D300D39E9F /* AppDelegate.h */,
-				A8BED4A61B5420D300D39E9F /* AppDelegate.m */,
 				A8BED4A81B5420D300D39E9F /* ViewController.h */,
 				A8BED4A91B5420D300D39E9F /* ViewController.m */,
 				A8BED4AB1B5420D300D39E9F /* Main.storyboard */,
@@ -96,6 +94,8 @@
 		A8BED4A11B5420D300D39E9F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				A8BED4A51B5420D300D39E9F /* AppDelegate.h */,
+				A8BED4A61B5420D300D39E9F /* AppDelegate.m */,
 				A8BED4A21B5420D300D39E9F /* Info.plist */,
 				A8BED4A31B5420D300D39E9F /* main.m */,
 			);
