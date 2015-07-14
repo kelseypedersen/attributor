@@ -27,4 +27,7 @@ A program that shows a TextView where users can change text color and text outli
 **Questions I still have**
 ```
 - Can you change a property from strong-weak or weak-strong without redoing the link to the storyboard?
+- Why do you use range.location + range.length to get the index?
+- Why do you include the argument animated in viewDidAppear?
+- What does textStorage mean?
 ```
